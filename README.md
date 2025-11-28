@@ -1,3 +1,31 @@
+<h1 align="center">Hi, I'm Khant 👋</h1>
+
+<p align="center">
+  <b>Aspiring Developer & IT Enthusiast</b><br>
+  Learning JavaScript, Python, C++, and other programming concepts.
+</p>
+
+---
+
+## 🛠️ Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+
+## 🎯 Goals
+- Strengthen programming & logic fundamentals  
+- Build an IT/networking career  
+- Practice daily through small projects
+
+---
+
+## 🧠 Learning Style
+- Kinesthetic: learn by doing  
+- 80/20 focused learning
+
+---
+
+<p align="center"><i>Leveling up one day at a time.</i></p>
 ## Hi there 👋
 
 <!--
