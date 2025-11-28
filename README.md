@@ -26,7 +26,7 @@
 ---
 
 <p align="center"><i>Leveling up one day at a time.</i></p>
-## Hi there 👋
+
 
 <!--
 **khantcodes-dev/khantcodes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
